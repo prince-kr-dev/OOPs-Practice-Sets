@@ -11,3 +11,6 @@
 
 4. **Encapsulation**:  
    Create a class `BankAccount` with private properties `accountNumber` and `balance`. Provide public methods to get the balance and to deposit and withdraw amounts, ensuring balance cannot go negative. Test it with different scenarios.
+
+10. **Function Overloading**:  
+   Write a class `MathOperations` with overloaded methods `add()`: one to add two integers, one to add three integers, and one to add two floating-point numbers. Test these functions by calling them with different argument counts and types.

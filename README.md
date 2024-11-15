@@ -8,3 +8,6 @@
    
 5. **Copy Constructor**:  
    Create a class `Book` with properties like `title` and `author`. Write a copy constructor to create a copy of a `Book` object. Test the copy constructor by creating a new object as a copy of an existing one.
+
+4. **Encapsulation**:  
+   Create a class `BankAccount` with private properties `accountNumber` and `balance`. Provide public methods to get the balance and to deposit and withdraw amounts, ensuring balance cannot go negative. Test it with different scenarios.
